@@ -1,6 +1,6 @@
 package core_java;
 
-public class FibonacciSeries {
+public class FibonacciSeries{
 
 	public static void main(String[] args) {
 		int firstNum = 0, secondNum = 1;
